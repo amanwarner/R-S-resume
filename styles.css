@@ -1,0 +1,19 @@
+body{
+    background-color:azure;
+}
+hr{
+    border-style:DOTTED NONE NONE NONE;
+    BORDER-COLOR:GREY;
+    BORDER-WIDTH:10PX;
+    width:5%;
+}
+img{
+    height:300px;
+    width:300px;
+}
+H1{
+    COLOR:#66BFBF;
+}
+H3{
+    COLOR:#66BFBF;
+}
